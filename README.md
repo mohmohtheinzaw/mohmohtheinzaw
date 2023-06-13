@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Moh Moh Thein Zaw
 
-I'm a passionate Node.js backend developer . I love building robust and scalable web applications using these technologies. 
+I'm a passionate backend developer . I love building robust and scalable web applications using these technologies. 
 
 ## 💻 Technologies
 
