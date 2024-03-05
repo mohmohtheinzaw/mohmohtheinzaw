@@ -12,6 +12,7 @@ I'm a passionate backend developer . I love building robust and scalable web app
 - MongoDB
 - MySQL
 - RESTful APIs
+- Java
 
 ## 📫 Get in Touch
 
